@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+}
+#root {
+  height: 110vh;
+  width: auto;
+}
+body {
+  min-height: 100vh;
+  width: auto;
+  background-color: #f5f7fb;
+}

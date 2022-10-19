@@ -1,0 +1,13 @@
+
+@media screen and (max-width: 900px) {
+        .dividerline{
+                display: none;
+        }
+}
+.dividerline{
+        height: 481px;
+        width: 1px;
+        opacity: 0.19;
+        background-color: #F5F7FB;
+}
+

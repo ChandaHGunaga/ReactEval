@@ -1,0 +1,26 @@
+.toast {
+  height: 44px;
+  width: 513px;
+  border: 1px solid #97e6b8;
+  border-radius: 2px;
+  background-color: #cbf3dc;
+  margin: 135px 0 25px 140px;
+  position: absolute;
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}
+.congratsMessage {
+  height: 19px;
+  color: #2ecc71;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-left: 4%;
+}
+.crossSymbol {
+  color: #63d995;
+  margin-right: 8px;
+}
